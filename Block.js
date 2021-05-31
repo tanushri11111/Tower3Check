@@ -31,9 +31,6 @@ class Block{
         pop();
       }
       }
-     score(){
-       if(this.visibility<0 && this.visibility >-105){
-         score++;
-       }
+     
      }
 }
